@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DEC_DIT_M2_ManagingGUIControls" />
+        <module name="DEC_DIT_M2_CucumberBasics" />
+        <module name="DEC_DIT_M2_CucumberAdvancednew" />
+        <module name="DEC_DIT_M2_Xpath_CSS" />
+        <module name="DEC_DIT_M2_SeleniumWebDriver" />
+        <module name="DEC_DIT_m2_SeleniumGrid" />
+        <module name="DEC_DIT_M2_ObjectIdentification" />
+        <module name="DEC_DIT_M2_Framework" />
+        <module name="DEC_DIT_M2_Screenshots_Synchronization" />
+        <module name="DEC_DIT_M2_CucumberAdvanced" />
+        <module name="DIT_DEC_M2_PageFactory_PageObjectModel" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DEC_DIT_M2_AlertsMouseTables" target="1.8" />
+      <module name="DEC_DIT_M2_CucumberAdvanced" target="1.8" />
+      <module name="DEC_DIT_M2_CucumberAdvancednew" target="1.8" />
+      <module name="DEC_DIT_M2_CucumberBasics" target="1.8" />
+      <module name="DEC_DIT_M2_Framework" target="1.8" />
+      <module name="DEC_DIT_M2_ManagingGUIControls" target="1.8" />
+      <module name="DEC_DIT_M2_ObjectIdentification" target="1.8" />
+      <module name="DEC_DIT_M2_Screenshots_Synchronization" target="1.8" />
+      <module name="DEC_DIT_m2_SeleniumGrid" target="1.8" />
+      <module name="DEC_DIT_M2_SeleniumWebDriver" target="1.5" />
+      <module name="DEC_DIT_M2_Xpath_CSS" target="1.8" />
+      <module name="DIT_DEC_M2_PageFactory_PageObjectModel" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

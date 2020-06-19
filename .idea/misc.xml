@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../DEC_DIT_M2_ObjectIdentification/pom.xml" />
+        <option value="$PROJECT_DIR$/../DEC_DIT_M2_Xpath_CSS/pom.xml" />
+        <option value="$PROJECT_DIR$/../DEC_DIT_M2_ManagingGUIControls/pom.xml" />
+        <option value="$PROJECT_DIR$/../DEC_DIT_M2_Screenshots_Synchronization/pom.xml" />
+        <option value="$PROJECT_DIR$/../DEC_DIT_M2_AlertsMouseTables/pom.xml" />
+        <option value="$PROJECT_DIR$/../DEC_DIT_M2_Framework/pom.xml" />
+        <option value="$PROJECT_DIR$/../DEC_DIT_m2_SeleniumGrid/pom.xml" />
+        <option value="$PROJECT_DIR$/../DEC_DIT_M2_CucumberBasics/pom.xml" />
+        <option value="$PROJECT_DIR$/../DEC_DIT_M2_CucumberAdvanced/pom.xml" />
+        <option value="$PROJECT_DIR$/../DIT_DEC_M2_PageFactory_PageObjectModel/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

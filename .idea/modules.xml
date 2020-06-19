@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DEC_DIT_M2_AlertsMouseTables/DEC_DIT_M2_AlertsMouseTables.iml" filepath="$PROJECT_DIR$/../DEC_DIT_M2_AlertsMouseTables/DEC_DIT_M2_AlertsMouseTables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DEC_DIT_M2_AlertsMouseTables/DEC_DIT_M2_CucumberAdvanced/DEC_DIT_M2_CucumberAdvanced.iml" filepath="$PROJECT_DIR$/../DEC_DIT_M2_AlertsMouseTables/DEC_DIT_M2_CucumberAdvanced/DEC_DIT_M2_CucumberAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DEC_DIT_M2_CucumberAdvanced/DEC_DIT_M2_CucumberAdvancednew.iml" filepath="$PROJECT_DIR$/../DEC_DIT_M2_CucumberAdvanced/DEC_DIT_M2_CucumberAdvancednew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DEC_DIT_M2_CucumberBasics/DEC_DIT_M2_CucumberBasics.iml" filepath="$PROJECT_DIR$/../DEC_DIT_M2_CucumberBasics/DEC_DIT_M2_CucumberBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DEC_DIT_M2_Framework/DEC_DIT_M2_Framework.iml" filepath="$PROJECT_DIR$/../DEC_DIT_M2_Framework/DEC_DIT_M2_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DEC_DIT_M2_ManagingGUIControls/DEC_DIT_M2_ManagingGUIControls.iml" filepath="$PROJECT_DIR$/../DEC_DIT_M2_ManagingGUIControls/DEC_DIT_M2_ManagingGUIControls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DEC_DIT_M2_ObjectIdentification/DEC_DIT_M2_ObjectIdentification.iml" filepath="$PROJECT_DIR$/../DEC_DIT_M2_ObjectIdentification/DEC_DIT_M2_ObjectIdentification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DEC_DIT_M2_Screenshots_Synchronization/DEC_DIT_M2_Screenshots_Synchronization.iml" filepath="$PROJECT_DIR$/../DEC_DIT_M2_Screenshots_Synchronization/DEC_DIT_M2_Screenshots_Synchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DEC_DIT_M2_SeleniumWebDriver.iml" filepath="$PROJECT_DIR$/DEC_DIT_M2_SeleniumWebDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DEC_DIT_M2_Xpath_CSS/DEC_DIT_M2_Xpath_CSS.iml" filepath="$PROJECT_DIR$/../DEC_DIT_M2_Xpath_CSS/DEC_DIT_M2_Xpath_CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DEC_DIT_m2_SeleniumGrid/DEC_DIT_m2_SeleniumGrid.iml" filepath="$PROJECT_DIR$/../DEC_DIT_m2_SeleniumGrid/DEC_DIT_m2_SeleniumGrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DIT_DEC_M2_PageFactory_PageObjectModel/DIT_DEC_M2_PageFactory_PageObjectModel.iml" filepath="$PROJECT_DIR$/../DIT_DEC_M2_PageFactory_PageObjectModel/DIT_DEC_M2_PageFactory_PageObjectModel.iml" />
+    </modules>
+  </component>
+</project>
